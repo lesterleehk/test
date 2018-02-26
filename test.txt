@@ -4,3 +4,4 @@ test no force gitest fetch1 new
 
 it is nice to fetch again, then pull now, then push now, pust master, push upstream, push direct
 fetch
+ftech then checkout head
