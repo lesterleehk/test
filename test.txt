@@ -1,2 +1,2 @@
-test no force gitest fetch1 new
+test no force gitest fetch
 
