@@ -2,4 +2,4 @@ test no force gitest fetch1 new
 
 
 
-it is nice to fetch again
+it is nice to fetch again, then pull now
